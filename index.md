@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 programing portfolio
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 You can use the [editor on GitHub](https://github.com/IG9626/programingportfolio2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
