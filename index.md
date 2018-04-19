@@ -10,6 +10,7 @@
 ![alt text](https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png "Pic of Speed Converter")
 
 ### Calculator
+ <img src="https://github.com/favicon.ico" height="24">
 ![test](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg = 50x50).
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ![alt text](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg "Pic of my calculator plan" width= 50% hight= 50%)
