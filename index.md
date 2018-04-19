@@ -1,13 +1,13 @@
 ## My Programing Peregination
 
 ### Screen Saver Application
-![alt text](https://github.com/IG9626/screenSaver/blob/master/PicOfScreenSaver2.png "Pic of screensaver App")
+<img src="https://github.com/IG9626/screenSaver/blob/master/PicOfScreenSaver2.png" height="350">
 
 ### Time Line
-![alt text](https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png "Pic of Timeline")
+<img src="https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png" height="350">
 
 ### Speed Converter
-![alt text](https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png "Pic of Speed Converter")
+<img src="https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png" height="350">
 
 ### Calculator
  
