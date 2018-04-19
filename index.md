@@ -19,7 +19,7 @@
 
 
 ### Pig Latin Converter
-
+<img src="https://github.com/IG9626/pigLatinConverter/blob/master/picOfPigLatinConverter.png" height="350">
 
 ### Chess Game
 
