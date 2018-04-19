@@ -11,7 +11,7 @@
 
 ### Calculator
  <img src="https://github.com/favicon.ico" height="24">
-  <img src="https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg" height="24">
+  <img src="https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg" height="200">
 ![test](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg = 50x50).
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ![alt text](https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg "Pic of my calculator plan" width= 50% hight= 50%)
