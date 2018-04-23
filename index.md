@@ -1,7 +1,7 @@
 ## My Programing Peregination
 
 ### Screen Saver Application
-<img src="https://github.com/IG9626/screenSaver/blob/master/PicOfScreenSaver2.png" height="350">
+<img src="https://github.com/IG9626/screenSaver/blob/master/PicOfScreenSaver2.0y.jpg" height="350">
 
 ### Time Line
 <img src="https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png" height="350">
