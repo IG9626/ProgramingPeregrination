@@ -17,12 +17,7 @@ In this application we had the assignment to show a converter on the screen (tem
   <img src="https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg" height="350">
   <img src="https://github.com/IG9626/Calculator/blob/master/picture/Screen%20Shot%202018-02-14%20at%201.39.07%20PM.png" height="500">
 
-
-### Shape Tester
-
-
 ### Pig Latin Converter
 <img src="https://github.com/IG9626/pigLatinConverter/blob/master/picOfPigLatinConverter.png" height="200">
 
 ### Chess Game
-
