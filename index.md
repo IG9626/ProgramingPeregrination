@@ -18,8 +18,12 @@ In this application we had the assignment to show a converter on the screen (tem
  
 <img src="https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg" height="350">
 
-After the layout I began to code the application, I started with 2 function buttons and the display. During the making of this calculator I learned what classes were and how to use them. I also learned how to make a complex program, that had many aspects that worked together. It took awhile to get a hang of the program, but in the end it was well worth it! I got a working calculator that I could potentially use.
+After the layout I began to code the application, I started with 2 function buttons and the display. During the making of this calculator I learned what classes were and how to use them. I also learned how to make a complex program, that had many aspects that worked together.  I got a working calculator (mostly :):) I still want to code 4 function buttons with square root, exponents, etc. I will just add that sometime in the future;) that I could potentially use! It took awhile to get a hang of the program, but in the end it was well worth it!
+
+
+
   <img src="https://github.com/IG9626/Calculator/blob/master/picture/Screen%20Shot%202018-02-14%20at%201.39.07%20PM.png" height="500">
+
 
 ### Pig Latin Converter
 <img src="https://github.com/IG9626/pigLatinConverter/blob/master/picOfPigLatinConverter.png" height="200">
