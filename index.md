@@ -6,6 +6,7 @@ One of the first applications that I learned to create was a screensaver that I 
 
 ### Time Line
 <img src="https://github.com/IG9626/timeline/blob/master/timelinePhoto1.png" height="350">
+This was still one of my earlier projects, but I was exited from the begining to do this project. I used the language Java and the program processing to create this timeline. As you can see from the picture above, this program was a timeline. The reason I was so exited, was that I felt like I could use what I learned as I did this program to complete other projects in my english and history classes that also needed timelines. I create them how I wanted and could make them look any way I wanted. In this program I learned how to code a program so that you could interact with it. In this program I did a hover function which allows a box of information appear whenever you are hovering over a date.
 
 ### Speed Converter
 <img src="https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png" height="350">
