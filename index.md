@@ -28,4 +28,6 @@ After the layout I began to code the application, I started with 2 function butt
 ### Pig Latin Converter
 <img src="https://github.com/IG9626/pigLatinConverter/blob/master/picOfPigLatinConverter.png" height="200">
 
+Up to this point in class I had only used 1 language, java, it was time to expand to something new. In programing there are many different languages, java, c++, python,ext. In the end I decided to try out python. I decided to do python because it was a concise language and many people said fairly easy to learn. To write the code for this program I used IDLE, a program similar to processing, but much simpler. The application I did was a pig latin converter. It converts any word in english into pig latin. This program was very simple and allowed me to navigate the new syntax (grammar) of the new language. 
+
 ### Chess Game
