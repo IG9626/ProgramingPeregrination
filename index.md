@@ -14,7 +14,10 @@ In this application we had the assignment to show a converter on the screen (tem
 
 ### Calculator
  This was the first large, multi process application that we did. It was filled with many steps, but in the end, it was well worth it. We started with a layout of what we wanted our calculator to do, and how we wanted it to look. This is what my layout looked like, I just wrote it out:
+ 
+ 
 <img src="https://github.com/IG9626/Calculator/blob/master/calculatorPlan.jpg" height="350">
+
 After the layout I began to code the application, I started with 2 function buttons and the display. During the making of this calculator I learned what classes were and how to use them. I also learned how to make a complex program, that had many aspects that worked together. It took awhile to get a hang of the program, but in the end it was well worth it! I got a working calculator that I could potentially use.
   <img src="https://github.com/IG9626/Calculator/blob/master/picture/Screen%20Shot%202018-02-14%20at%201.39.07%20PM.png" height="500">
 
