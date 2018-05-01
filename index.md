@@ -27,7 +27,7 @@ and
 
 [processing]( https://processing.org/reference/ " Link to the processing website ")
 
-tutorials point and processing was very important in keeping my sanity and completing the project. If you take the code and try to run it on your computer you will see that some of the program is a little buggy, and still needs some fixing, but it was still a good accomplishment. Hopefully someday I will come back and fix the issues, but all in all this application was a very good learning experience. 
+tutorials point and processing was very important in keeping my sanity and completing the project. When I run the code on my computer some of the program is a little buggy, and still needs some fixing, but it was still a good accomplishment. Hopefully someday I will come back and fix the issues, but all in all this application was a very good learning experience. 
 
 [My Speed Converter on Git Hub]( https://github.com/IG9626/speedconverterApp " link to GitHub page all about the Speed converter app ")
 
