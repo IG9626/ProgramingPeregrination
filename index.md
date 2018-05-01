@@ -56,8 +56,7 @@ Up to this point in class I had only used 1 language, java, it was time to expan
 
 ### Chess Game
 <img src="https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png" height="450">
-[Our Chess Game on Git Hub]( https://github.com/The-tiny-asian/chess " link to GitHub page all about the Chess game app ")
-
- <img src="https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png" height="450">
+One of the last projects that i did, was a group project with Raheem, David, and Emmanuel. In this we created a functional working chess game! This was a huge achomplishment! Raheem put together the basis of the application which allowed us to create a functioning application. We all contributed with the code for the specific chess pieces, and Emmanuel did a spectacular job with the chess piece graphics! This was by far my most favorite application/program that we did all year. It was so fun to code in groups, we were able to help eachother along and it was so fufiling in the end to be able to play a game of chess, and know all the work that got put into making that game possible. Overall programing has been a very fun experience filled with learning new things. 
+[Here is a link to our Chess Game on Git Hub]( https://github.com/The-tiny-asian/chess " link to GitHub page all about the Chess game app ")
 
 To Contact Me Email: IG96@protonmail.com
