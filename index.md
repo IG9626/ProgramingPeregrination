@@ -20,8 +20,11 @@ This was still one of my earlier projects, but I was exited from the begining to
 ### Speed Converter
 <img src="https://github.com/IG9626/speedconverterApp/blob/master/speedConverterAppPic.png" height="350">
 In this application we had the assignment to show a converter on the screen (temperature, speed, money, etc.) I decided to choose Speed. I wanted to convert miles per hour to kilometers per hour, not only that but I wanted to create what looked like speedometers onto the screen. It was very hard, the speedometers were circles and to figure out how to reference the speed onto a circle and change the hands of the speedometer as you moved the mouse across the screen was very hard. In this program I learned that math is very important when it comes to programing. I also learned that using reference sites such as: 
+
 [tutorialspoint]( https://www.tutorialspoint.com/index.htm " Link to the tutorialspoint website ") 
+
 and
+
 [processing]( https://processing.org/reference/ " Link to the processing website ")
 
 tutorials point and processing was very important in keeping my sanity and completing the project. If you take the code and try to run it on your computer you will see that some of the program is a little buggy, and still needs some fixing, but it was still a good accomplishment. Hopefully someday I will come back and fix the issues, but all in all this application was a very good learning experience. 
