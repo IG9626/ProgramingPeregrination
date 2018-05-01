@@ -49,6 +49,6 @@ Up to this point in class I had only used 1 language, java, it was time to expan
 ### Chess Game
 [Here is a link to my Git Hub with more pictures and the code]( https://github.com/The-tiny-asian/chess " link to GitHub page all about the Chess game app ")
 **coming soon:)!!**
-
+ <img src="https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png" height="450">
 
 To Contact Me Email: IG96@protonmail.com
